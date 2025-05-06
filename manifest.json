@@ -1,0 +1,16 @@
+
+{
+  "name": "Aeropress Timer",
+  "short_name": "Aeropress",
+  "start_url": "aeropress-timer-pwa-smaller.html",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#ff4d4d",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
